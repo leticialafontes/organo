@@ -19,7 +19,7 @@ const Rodape = () => {
       </div>
       <div className="frase">
         <a href="https://github.com/leticialafontes" className="link">
-          {"Feito por Letícia Fontes"}
+          {"Feito por Letícia Abib Fontes"}
         </a>
       </div>
     </div>
