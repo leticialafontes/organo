@@ -1,0 +1,33 @@
+.rodape {
+  background-color: var(--cor-roxa);
+  display: flex;
+  color: #fff;
+  padding: 40px;
+  justify-content: space-between;
+}
+
+.app {
+  display: flex;
+  justify-content: space-between;
+  padding: 0 0 0 30px;
+}
+
+.app a {
+  padding: 32px;
+}
+
+.logo {
+  padding-top: 16px;
+}
+
+.frase {
+  padding: 40px 50px 0 0;
+}
+
+.link {
+  text-decoration: none;
+  color: #fff;
+  font-family: var(--fonte-corrido);
+  font-size: 20px;
+  font-weight: 500;
+}

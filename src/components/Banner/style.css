@@ -1,0 +1,9 @@
+.banner {
+  background-color: var(--cor-roxa);
+  text-align: center;
+  width: 100%;
+}
+
+.banner img {
+  max-width: 100%;
+}
